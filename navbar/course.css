@@ -1,0 +1,30 @@
+body{
+     background-color: rgb(135, 146, 205);
+    margin: 20px;
+    padding: 10px;
+}
+.link2{
+    color: rgb(250, 251, 246);
+    text-align: justify;
+    font-size: 24px;
+    margin: 35px
+}
+.banner{
+    width: 1523px;
+    height: 50vh;
+    padding: 5px;
+    margin: -29.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./OIP.webp);
+    background-size: cover;
+    border-radius: 20px;
+}
+.banner h1{
+    font-size: 100px;
+    color: antiquewhite;
+}
+
+
+
